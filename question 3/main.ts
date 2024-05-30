@@ -10,7 +10,7 @@ console.log("LowerCase:" , personName.toLowerCase())
 
 console.log("Uppercase:", personName.toUpperCase());
 
-//printing a person name in lowercase
+//printing a person name in lowercase**
 
 console.log("Titlecase:", personName.replace(/\b\w/g,c =>c .toUpperCase()));
 
